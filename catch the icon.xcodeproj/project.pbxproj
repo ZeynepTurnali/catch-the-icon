@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		66D261EA250F968E00381D84 /* catch the pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "catch the pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		66D261EA250F968E00381D84 /* catch the icon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "catch the icon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		66D261ED250F968E00381D84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		66D261EF250F968E00381D84 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		66D261F1250F968E00381D84 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		66D261EB250F968E00381D84 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				66D261EA250F968E00381D84 /* catch the pie.app */,
+				66D261EA250F968E00381D84 /* catch the icon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		66D261E9250F968E00381D84 /* catch the pie */ = {
+		66D261E9250F968E00381D84 /* catch the icon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 66D261FE250F969000381D84 /* Build configuration list for PBXNativeTarget "catch the pie" */;
+			buildConfigurationList = 66D261FE250F969000381D84 /* Build configuration list for PBXNativeTarget "catch the icon" */;
 			buildPhases = (
 				66D261E6250F968E00381D84 /* Sources */,
 				66D261E7250F968E00381D84 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "catch the pie";
+			name = "catch the icon";
 			productName = "catch the pie";
-			productReference = 66D261EA250F968E00381D84 /* catch the pie.app */;
+			productReference = 66D261EA250F968E00381D84 /* catch the icon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 66D261E5250F968E00381D84 /* Build configuration list for PBXProject "catch the pie" */;
+			buildConfigurationList = 66D261E5250F968E00381D84 /* Build configuration list for PBXProject "catch the icon" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				66D261E9250F968E00381D84 /* catch the pie */,
+				66D261E9250F968E00381D84 /* catch the icon */,
 			);
 		};
 /* End PBXProject section */
@@ -291,8 +291,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.study.zeynep.catch-the-pie";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.study.zeynep.catch-the-icon";
+				PRODUCT_NAME = "catch the icon";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -309,8 +309,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.study.zeynep.catch-the-pie";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.study.zeynep.catch-the-icon";
+				PRODUCT_NAME = "catch the icon";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		66D261E5250F968E00381D84 /* Build configuration list for PBXProject "catch the pie" */ = {
+		66D261E5250F968E00381D84 /* Build configuration list for PBXProject "catch the icon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				66D261FC250F969000381D84 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		66D261FE250F969000381D84 /* Build configuration list for PBXNativeTarget "catch the pie" */ = {
+		66D261FE250F969000381D84 /* Build configuration list for PBXNativeTarget "catch the icon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				66D261FF250F969000381D84 /* Debug */,
